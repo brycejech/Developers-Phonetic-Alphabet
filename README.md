@@ -1,1 +1,30 @@
-# Developers-Phonetic-Alphabet
+# The Developer's Phonetic Alphabet
+
+| Letter | Word        |
+| ------ | ----------- |
+| A      | ASCII       |
+| B      | Bug         |
+| C      | Chromium    |
+| D      | Docker      |
+| E      | Entity      |
+| F      | Feature     |
+| G      | Golang      |
+| H      | Hacker      |
+| I      | Interface   |
+| J      | Java        |
+| K      | Kubernetes  |
+| L      | Linux       |
+| M      | Mozilla     |
+| N      | Netscape    |
+| O      | Open Source |
+| P      | Postgres    |
+| Q      | Query       |
+| R      | React       |
+| S      | SQL         |
+| T      | TypeScript  |
+| U      | Unicode     |
+| V      | Vector      |
+| W      | WYSIWYG     |
+| X      | X86         |
+| Y      | YAML        |
+| Z      | Zip         |
